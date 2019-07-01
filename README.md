@@ -3,7 +3,7 @@
 
 O sistema usa técnicas de processamento de imagens, como a **transformada de Hough** e detecção de borda sub-pixel para o processamento da imagem de código de barras capturada por câmera.
 
-*Algoritmo foi implementado dentro do Ambiente Eclipse.*
+*Algoritmo foi implementado dentro do Ambiente Eclipse. **Documentação** em PDF presente no diretório raíz*
 
 ### Passo-a-Passo
 
