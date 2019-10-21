@@ -17,4 +17,4 @@ O sistema usa técnicas de processamento de imagens, como a **transformada de Ho
 
 ### Tecnologias Utilizadas
 
-Trava/OpenGL/TravaFX
+Java/OpenGL/JavaFX/OpenCV
